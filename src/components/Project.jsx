@@ -42,8 +42,9 @@ const Project = () => {
                 <Gradientwhite  />
               </div>
 
-              <div className="w-1/4 flex justify-center items-center text-2xl">
+              <div className="w-1/4 flex justify-center items-center text-2xl flex-col">
                 techstack
+              <div>status</div>
               </div>
               </div>
             </div>
